@@ -1,0 +1,17 @@
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\bin\Debug\net6.0-windows\MyTree.exe
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\bin\Debug\net6.0-windows\MyTree.deps.json
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\bin\Debug\net6.0-windows\MyTree.runtimeconfig.json
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\bin\Debug\net6.0-windows\MyTree.dll
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\bin\Debug\net6.0-windows\MyTree.pdb
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\MyTree.csproj.AssemblyReference.cache
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\MyTree.Form1.resources
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\MyTree.csproj.GenerateResource.cache
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\MyTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\MyTree.AssemblyInfoInputs.cache
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\MyTree.AssemblyInfo.cs
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\MyTree.csproj.CoreCompileInputs.cache
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\MyTree.dll
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\refint\MyTree.dll
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\MyTree.pdb
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\MyTree.genruntimeconfig.cache
+C:\All files\universityLessons4\Структуры и алгоритмы обработки данных\MyTree\MyTree\obj\Debug\net6.0-windows\ref\MyTree.dll
